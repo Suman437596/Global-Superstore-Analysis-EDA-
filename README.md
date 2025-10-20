@@ -39,7 +39,8 @@ Python libraries like **Pandas**, **Matplotlib**, **Seaborn**, and **Plotly** ar
 
 ## 🗂️ Dataset
 
-**Source:** `"C:\Users\Suman\OneDrive\Desktop\data analysis course notebook\skillup classes note\Global Superstore.xlsx"`
+**Source:** [Global_Superstore.csv](."C:\Users\Suman\OneDrive\ドキュメント\git-hub project files\global_superstore (EDA)\Global Superstore (raw).xlsx")
+
 
 **Description:** The Global Superstore dataset contains information about orders, products, customers, sales, profit, and shipping details across multiple regions and markets.
 
@@ -84,6 +85,7 @@ Python libraries like **Pandas**, **Matplotlib**, **Seaborn**, and **Plotly** ar
 **Suman**  
 📧 Email: [esuman065@gmail.com](mailto:esuman065@gmail.com)  
 🌐 GitHub: [Suman437596](https://github.com/Suman437596)
+
 
 
 
