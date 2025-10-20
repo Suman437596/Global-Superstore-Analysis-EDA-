@@ -14,11 +14,9 @@ This project identifies key insights about high-performing regions, product cate
 
 \- \[Key Features](#key-features)
 
-\- \[Sales and profit trends](#Sales and profit trends)
+\- \[Sales and profit trends](#sales-and-profit-trends)
 
 \- \[Tools and Libraries](#tools-and-libraries)
-
-\- \[How to Run](#how-to-run)
 
 \- \[Final Recommendations](#final-recommendations)
 
@@ -70,7 +68,7 @@ This project identifies key insights about high-performing regions, product cate
 
 ##### \## 🖼️  Chart
 
-##### !\[Sales and Profit trends](images/Sales and Profit trends.png)
+##### !\[Sales and Profit trends](images/Sales-and-Profit-trends.png)
 
 
 
@@ -109,6 +107,7 @@ This project identifies key insights about high-performing regions, product cate
 ###### 📧 Email: \[esuman065@gmail.com](mailto:esuman065@gmail.com)  
 
 ###### 🌐 GitHub: \[Suman437596](https://github.com/Suman437596)
+
 
 
 
